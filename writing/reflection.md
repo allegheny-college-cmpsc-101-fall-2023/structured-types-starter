@@ -28,7 +28,7 @@ TODO: Provide a detailed response to this question.
 
 `def compute_intersection(tuple_one: Tuple[Any, ...], tuple_two: Tuple[Any, ...]) -> Tuple[Any, ...]:`
 
-### Why does the `compute_intersection` function return different outputs depending on its inputs?
+### Why does the `compute_intersection` function return different outputs depending on its input order?
 
 TODO: Provide a detailed response to this question.
 
@@ -42,7 +42,7 @@ TODO: Provide a detailed response to this question.
 
 TODO: Provide a detailed response to this question.
 
-### What are the benefits associated with higher-order functions like `apply_to_each`?
+### What are the affordances associated with higher-order functions like `apply_to_each`?
 
 TODO: Provide a detailed response to this question.
 
